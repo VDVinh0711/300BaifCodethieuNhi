@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\bin\Debug\net8.0\Dao Nguoc Mang.exe
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\bin\Debug\net8.0\Dao Nguoc Mang.deps.json
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\bin\Debug\net8.0\Dao Nguoc Mang.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\bin\Debug\net8.0\Dao Nguoc Mang.dll
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\bin\Debug\net8.0\Dao Nguoc Mang.pdb
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.dll
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\refint\Dao Nguoc Mang.dll
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.pdb
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\Dao Nguoc Mang.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\Dao Nguoc Mang\Dao Nguoc Mang\obj\Debug\net8.0\ref\Dao Nguoc Mang.dll

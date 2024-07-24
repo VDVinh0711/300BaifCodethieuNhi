@@ -1,0 +1,6 @@
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\bin\Debug\DFSVoHuong.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\bin\Debug\DFSVoHuong.pdb
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\obj\Debug\DFSVoHuong.csproj.AssemblyReference.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\obj\Debug\DFSVoHuong.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\obj\Debug\DFSVoHuong.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\DFSVoHuong\obj\Debug\DFSVoHuong.pdb

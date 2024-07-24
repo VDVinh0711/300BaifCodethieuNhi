@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\bin\Debug\net8.0\BackSpaceString.exe
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\bin\Debug\net8.0\BackSpaceString.deps.json
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\bin\Debug\net8.0\BackSpaceString.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\bin\Debug\net8.0\BackSpaceString.dll
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\bin\Debug\net8.0\BackSpaceString.pdb
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.dll
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\refint\BackSpaceString.dll
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.pdb
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\BackSpaceString.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\BackSpaceString\BackSpaceString\obj\Debug\net8.0\ref\BackSpaceString.dll

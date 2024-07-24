@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\bin\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.exe
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\bin\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.deps.json
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\bin\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\bin\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.dll
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\bin\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.pdb
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.dll
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\refint\Tìm Số Đối Lập Lớn Nhất.dll
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.pdb
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\Tìm Số Đối Lập Lớn Nhất.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\Tìm Số Đối Lập Lớn Nhất\Tìm Số Đối Lập Lớn Nhất\obj\Debug\net8.0\ref\Tìm Số Đối Lập Lớn Nhất.dll

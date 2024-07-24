@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\bin\Debug\net8.0\RomantoInterger.exe
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\bin\Debug\net8.0\RomantoInterger.deps.json
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\bin\Debug\net8.0\RomantoInterger.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\bin\Debug\net8.0\RomantoInterger.dll
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\bin\Debug\net8.0\RomantoInterger.pdb
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.dll
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\refint\RomantoInterger.dll
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.pdb
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\RomantoInterger.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\RomantoInterger\RomantoInterger\obj\Debug\net8.0\ref\RomantoInterger.dll

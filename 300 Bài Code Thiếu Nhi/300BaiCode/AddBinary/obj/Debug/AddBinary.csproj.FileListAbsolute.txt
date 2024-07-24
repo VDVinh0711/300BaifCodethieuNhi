@@ -1,0 +1,6 @@
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\bin\Debug\AddBinary.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\bin\Debug\AddBinary.pdb
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\obj\Debug\AddBinary.csproj.AssemblyReference.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\obj\Debug\AddBinary.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\obj\Debug\AddBinary.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\AddBinary\obj\Debug\AddBinary.pdb

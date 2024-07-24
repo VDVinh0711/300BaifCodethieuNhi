@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tìm Số Đối Lập Lớn Nhất/1.0.0": {
+        "runtime": {
+          "Tìm Số Đối Lập Lớn Nhất.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tìm Số Đối Lập Lớn Nhất/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

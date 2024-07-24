@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\bin\Debug\net8.0\SpecialTriagle.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\bin\Debug\net8.0\SpecialTriagle.deps.json
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\bin\Debug\net8.0\SpecialTriagle.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\bin\Debug\net8.0\SpecialTriagle.dll
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\bin\Debug\net8.0\SpecialTriagle.pdb
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.dll
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\refint\SpecialTriagle.dll
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.pdb
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\SpecialTriagle.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\SpecialTriagle\obj\Debug\net8.0\ref\SpecialTriagle.dll

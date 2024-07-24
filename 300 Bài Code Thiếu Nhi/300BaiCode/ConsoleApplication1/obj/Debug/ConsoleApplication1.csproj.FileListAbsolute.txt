@@ -1,0 +1,6 @@
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\300 Bài Code Thiếu Nhi\300BaiCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

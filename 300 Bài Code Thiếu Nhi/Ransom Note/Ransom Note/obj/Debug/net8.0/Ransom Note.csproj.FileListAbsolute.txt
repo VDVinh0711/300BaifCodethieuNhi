@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\bin\Debug\net8.0\Ransom Note.exe
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\bin\Debug\net8.0\Ransom Note.deps.json
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\bin\Debug\net8.0\Ransom Note.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\bin\Debug\net8.0\Ransom Note.dll
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\bin\Debug\net8.0\Ransom Note.pdb
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.dll
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\refint\Ransom Note.dll
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.pdb
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\Ransom Note.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\Ransom Note\Ransom Note\obj\Debug\net8.0\ref\Ransom Note.dll

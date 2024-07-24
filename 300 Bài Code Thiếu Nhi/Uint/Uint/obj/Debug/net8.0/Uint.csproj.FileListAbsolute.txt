@@ -1,0 +1,14 @@
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\bin\Debug\net8.0\Uint.exe
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\bin\Debug\net8.0\Uint.deps.json
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\bin\Debug\net8.0\Uint.runtimeconfig.json
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\bin\Debug\net8.0\Uint.dll
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\bin\Debug\net8.0\Uint.pdb
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.GeneratedMSBuildEditorConfig.editorconfig
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.AssemblyInfoInputs.cache
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.AssemblyInfo.cs
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.dll
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\refint\Uint.dll
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.pdb
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\Uint.genruntimeconfig.cache
+D:\300 Bài Code Thiếu Nhi\Uint\Uint\obj\Debug\net8.0\ref\Uint.dll
