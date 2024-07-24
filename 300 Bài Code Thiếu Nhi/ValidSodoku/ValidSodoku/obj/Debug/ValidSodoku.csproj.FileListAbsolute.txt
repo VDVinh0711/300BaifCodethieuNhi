@@ -1,0 +1,6 @@
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\bin\Debug\ValidSodoku.exe
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\bin\Debug\ValidSodoku.pdb
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\obj\Debug\ValidSodoku.csproj.AssemblyReference.cache
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\obj\Debug\ValidSodoku.csproj.CoreCompileInputs.cache
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\obj\Debug\ValidSodoku.exe
+D:\300 Bài Code Thiếu Nhi\ValidSodoku\ValidSodoku\obj\Debug\ValidSodoku.pdb
