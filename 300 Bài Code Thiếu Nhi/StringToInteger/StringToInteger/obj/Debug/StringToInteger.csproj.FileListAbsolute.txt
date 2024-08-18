@@ -1,0 +1,6 @@
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\bin\Debug\StringToInteger.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\bin\Debug\StringToInteger.pdb
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\obj\Debug\StringToInteger.csproj.AssemblyReference.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\obj\Debug\StringToInteger.csproj.CoreCompileInputs.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\obj\Debug\StringToInteger.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StringToInteger\StringToInteger\obj\Debug\StringToInteger.pdb
