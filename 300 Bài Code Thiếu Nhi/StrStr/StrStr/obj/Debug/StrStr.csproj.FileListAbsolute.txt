@@ -1,0 +1,6 @@
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\bin\Debug\StrStr.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\bin\Debug\StrStr.pdb
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\obj\Debug\StrStr.csproj.AssemblyReference.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\obj\Debug\StrStr.csproj.CoreCompileInputs.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\obj\Debug\StrStr.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\StrStr\StrStr\obj\Debug\StrStr.pdb
