@@ -1,0 +1,6 @@
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\bin\Debug\ClimpStair.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\bin\Debug\ClimpStair.pdb
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\obj\Debug\ClimpStair.csproj.AssemblyReference.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\obj\Debug\ClimpStair.csproj.CoreCompileInputs.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\obj\Debug\ClimpStair.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\ClimpStair\ClimpStair\obj\Debug\ClimpStair.pdb
