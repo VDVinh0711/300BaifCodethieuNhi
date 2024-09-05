@@ -1,0 +1,6 @@
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\bin\Debug\PowerOfThreee.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\bin\Debug\PowerOfThreee.pdb
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\obj\Debug\PowerOfThreee.csproj.AssemblyReference.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\obj\Debug\PowerOfThreee.csproj.CoreCompileInputs.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\obj\Debug\PowerOfThreee.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\PowerOfThreee\PowerOfThreee\obj\Debug\PowerOfThreee.pdb
