@@ -1,0 +1,6 @@
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\bin\Debug\Roman_to_Integer.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\bin\Debug\Roman_to_Integer.pdb
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.AssemblyReference.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.exe
+D:\CodeThieunhi\300 Bài Code Thiếu Nhi\Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.pdb
