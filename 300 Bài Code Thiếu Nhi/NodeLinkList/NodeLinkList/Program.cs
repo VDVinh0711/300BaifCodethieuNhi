@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 
 namespace NodeLinkList
@@ -169,6 +170,19 @@ namespace NodeLinkList
             head = preNode;
             
         }
+        
+        
+        public static  Node ReverseList(Node head) {
+            Node prev = null;
+            Node current = head;
+            while (current != null) {
+                Node nextTemp = current.next;
+                current.next = prev;
+                prev = current;
+                current = nextTemp;
+            }
+            return prev;
+        }
         // Check CirCle Of Link List
         public static bool CheckCircleOfLinkList(ref Node head)
         {
@@ -192,36 +206,80 @@ namespace NodeLinkList
 
             cur.next = List2;
         }
+
+
+        public static bool IsPalindrome(Node head)
+        {
+            // List<int> cachesValue = new List<int>();
+            // Node cur = head;
+            // while (cur != null)
+            // {
+            //     cachesValue.Add(cur.val);
+            //     cur = cur.next;
+            // }
+            // int left = 0;
+            // int right = cachesValue.Count - 1;
+            // while (left<right)
+            // {
+            //     if (cachesValue[left] != cachesValue[right])
+            //     {
+            //         return false;
+            //     }
+            //
+            //     left++;
+            //     right--;
+            // }
+            // return true;
+            
+            if (head == null || head.next == null)
+                return true;
+        
+            // Tìm điểm giữa của danh sách
+            Node slow = head;
+            Node fast = head;
+            while (fast.next != null && fast.next.next != null) {
+                slow = slow.next;
+                fast = fast.next.next;
+            }
+            Console.WriteLine(slow.next.val);
+        
+            // Đảo ngược nửa sau của danh sách
+            Node secondHalf = ReverseList( slow.next);
+        
+            // So sánh nửa đầu với nửa sau đã đảo ngược
+            Node firstHalf = head;
+            while (secondHalf != null) {
+                if (firstHalf.val != secondHalf.val)
+                    return false;
+                firstHalf = firstHalf.next;
+                secondHalf = secondHalf.next;
+            }
+        
+            return true;
+        }
         #endregion
         
         
         public static void Main(string[] args)
         {
             Node head = new Node(1);
-            head.next = new Node(2);
-            head.next.next = new Node(3);
-            head.next.next.next = new Node(4);
-            head.next.next.next.next = new Node(5);
-         
-            
-            
-            Node head2 = new Node(6);
-            head2.next = new Node(7);
-            head2.next.next = new Node(8);
-            head2.next.next.next = new Node(9);
-            head2.next.next.next.next = new Node(10);
-            head2.next.next.next.next.next = new Node(11);
-            ShowLinkList(head);
-            Node nodeInsert = new Node(7);
-            //DeleteAtBegin(ref head);
-           // DeleteNodeAtTheEnd(ref head);
-            //DeleteNodeWithValue(ref head, 6);
+            head.next = new Node(1);
+            head.next.next = new Node(2);
+            head.next.next.next = new Node(1);
+            head.next.next.next.next = new Node(3);
+            head.next.next.next.next.next = new Node(4);
+            head.next.next.next.next.next.next = new Node(5);
+            head.next.next.next.next.next.next.next = new Node(6);
 
-            Console.WriteLine();
-            Connect2LinkList(ref head, ref head2);
+            ShowLinkList(head);
+            
+            
+
+            Console.WriteLine(IsPalindrome(head));
+          
            // ReverseLinkList(ref head);
          
-            ShowLinkList(head);
+           
 
 
         }
