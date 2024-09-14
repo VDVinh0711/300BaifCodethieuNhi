@@ -257,6 +257,22 @@ namespace NodeLinkList
         
             return true;
         }
+
+
+
+        public static bool IsCircle(Node head)
+        {
+            Node fastNode = head;
+            Node slowNode = head;
+            while (fastNode != null && fastNode.next!= null)
+            {
+                fastNode = fastNode.next.next;
+                slowNode = slowNode.next;
+                if (fastNode == slowNode) return true;
+            }
+
+            return false;
+        }
         #endregion
         
         
