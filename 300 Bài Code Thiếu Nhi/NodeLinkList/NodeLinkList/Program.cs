@@ -262,6 +262,7 @@ namespace NodeLinkList
 
         public static bool IsCircle(Node head)
         {
+            //Check CIrcle
             Node fastNode = head;
             Node slowNode = head;
             while (fastNode != null && fastNode.next!= null)
