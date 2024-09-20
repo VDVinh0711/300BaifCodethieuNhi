@@ -20,7 +20,6 @@ namespace DoanCon
                     }
                 }
             }
-
             return result;
         }
         public static void Main(string[] args)
