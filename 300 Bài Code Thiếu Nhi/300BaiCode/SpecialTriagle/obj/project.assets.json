@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\SpecialTriagle.csproj",
+      "projectUniqueName": "D:\\CodeThieunhi\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\SpecialTriagle.csproj",
       "projectName": "SpecialTriagle",
-      "projectPath": "D:\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\SpecialTriagle.csproj",
+      "projectPath": "D:\\CodeThieunhi\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\SpecialTriagle.csproj",
       "packagesPath": "C:\\Users\\viv46\\.nuget\\packages\\",
-      "outputPath": "D:\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\obj\\",
+      "outputPath": "D:\\CodeThieunhi\\300 Bài Code Thiếu Nhi\\300BaiCode\\SpecialTriagle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\viv46\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\viv46\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
