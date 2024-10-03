@@ -11,7 +11,7 @@ class Program
 
         // Bắt đầu đo thời gian
         stopwatch.Start();
-        int[] sequence = new int[] {1, 4, 3, 2, 1, 2, 3, 4, 1};
+        int[] sequence = new int[] {6,6,6,5,4,5,4,5,6};
         Console.WriteLine(CalculateInsertions(sequence));
         
         stopwatch.Stop();
